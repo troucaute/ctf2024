@@ -68,3 +68,98 @@ Question and data repository for the [2024 Capture the Flag](https://supaerodata
 
 30 | What is the flag for diff that ignores case differences?
 
+### Linux tools
+
+31 | What is the `apt` command used to install available updates?
+
+32 | What is the letter of the `apt-get` command flag to perform a test run of the installation that does not actually change the system?
+
+33 | What is the file which lists locations that `apt` fetches packages from?
+
+34 | What is the name of the first column in `top` by default?
+
+35 | What is the letter of the command in `top` to kill a process?
+
+36 | What is the `tmux` command to list all running sessions?
+
+37 | What is the `tmux` command to use an existing session?
+
+38 | What is the letter of the tmux key binding to create a new window inside `tmux`?
+
+39 | What is the letter of the tmux key binding to leave the current client without stopping it?
+
+40 | If you run `tmux` on a remote server and then disconnect, will the `tmux` session end? "yes" or "no"
+
+41 | What is the name for the tutorial command to learn `vim`?
+
+42 | What is the name of the mode `vim` starts in by default?
+
+43 | What is the command to quit vim, without saving changes?
+
+44 | What is the letter used to navigate up in `vim`?
+
+45 | What is the file used for a user's `vim` configuration?
+
+46 | What is the flag for the apt-get command to purge a package, including its configuration files?
+
+47 | What is the apt command to update the list of available packages from sources listed in the sources list file?
+
+48 | What is the linux command to check for available disk space?
+
+49 | What is the letter of the command in htop to search for a specific process?
+
+50 | What is the vim command to delete the current line?
+
+51 | What is the vim command to yank (copy) the current line?
+
+52 | What is the linux command used to display the IP addresses of all network interfaces?
+
+53 | What key is used to scroll up one page in a `man` page?
+
+54 | After searching within a `man` page, what key can be used to jump to the next occurrence of the search term?
+
+55 | What key is used to jump to the beginning of a `man` page?
+
+### Git
+
+56 | How many directories are there in the root directory of the `machine-learning` repository?
+
+57 | How many total files are there in the `machine-learning` repository and all subdirectories? Not counting directories or hidden files like the `.git` repository
+
+58 | How many python or numpy files are in the `machine-learning` repository and subdirectories?
+
+59 | What is the short version of the commit ID of the first commit of the `machine-learning` repository?
+
+60 | What is the long version of the commit ID of the most recent commit of the `machine-learning` repository?
+
+61 | What city is mentioned in the 2nd most recent commit message of the `machine-learning` repository?
+
+62 | How many branches are in the `machine-learning` repository? Don't double count references to the same branch.
+
+63 | What is the name of the branch which isn't `main` in the `machine-learning` repository?
+
+64 | How many different unique user addresses have pushed commits to the `machine-learning` repository?
+
+65 | What is the name of the LICENSE of the `machine-learning` repository? Hint: it is also the full first line of the LICENSE file
+
+66 | What is the git remote "origin" url of the seaborn repository?
+
+67 | What is the full version of the last commit ID in the 0.12 version branch of seaborn?
+
+The following questions concern the `master` branch of seaborn at the commit `1e6739`.
+
+68 | How many commits are in the `master` branch of seaborn?
+
+69 | How many tagged commits are there in the seaborn repository?
+
+70 | How many "version" branches are there (ie, branches with a name starting in v)?
+
+71 | What is the last item of the seaborn repository's gitignore?
+
+72 | What is the first line of the `setup.cfg` file in the seaborn repository?
+
+73 | How many such key fields are in the `setup.cfg` file in the seaborn repository?
+
+74 | How many files are in the seaborn repository? Not counting hidden files like the `.git` repository
+
+75 | How many files directly contain the word "numpy" in the seaborn repository? Do not count hidden files like `.git/`
